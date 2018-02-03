@@ -1480,6 +1480,11 @@ body {
 .cid-qICsytKSao H2 {
   color: #ffffff;
 }
+.cid-qICC5AwacJ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
 .cid-qF27UyXe4m .navbar {
   background: #7f1933;
   transition: none;
@@ -1868,11 +1873,6 @@ body {
 .cid-qF27UyXe4m .nav-link:hover,
 .cid-qF27UyXe4m .dropdown-item:hover {
   color: #e4d295 !important;
-}
-.cid-qICzj6URWb {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
 }
 .cid-qHRjkEluUR .navbar {
   background: #7f1933;
